@@ -1,0 +1,20 @@
+#root {
+  width:500px;
+  height:500px;
+  margin:50px auto;
+}
+
+.cell {
+  float:left;
+  width:10%;
+  height:10%;
+  background-color: blue;
+}
+
+.active {
+  background-color: yellow;
+}
+
+.active-head {
+  background-color: orange;
+}
